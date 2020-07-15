@@ -8,6 +8,9 @@ Kelas :TI.18.A.3
 ## SOAL
 Buatlah Aplikasi CRUD sederhana
 
+# Link WEB Hosting
+https://uaswebkevin.000webhostapp.com/
+
 ## Jawab
 Mockup desain UTS
 
